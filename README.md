@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Intellier](https://intellier.com/)
 
-- 🌱 I’m currently learning **FastApi**
+<!-- - 🌱 I’m currently learning **FastApi** -->
 
 - 💬 Ask me about **Flutter, Python, Dart, Java, Html, CSS, JS**
 
