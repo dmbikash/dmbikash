@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmbikash&label=Profile%20views&color=0e75b6&style=flat" alt="dmbikash" /> </p>
 
-- 🔭 I’m currently working at [Intellier](https://intellier.com/)
+- 🔭 I’m currently working at [Catch Bangladesh]([https://intellier.com/](https://catchbangladesh.com/))
 
 <!-- - 🌱 I’m currently learning **FastApi** -->
 
